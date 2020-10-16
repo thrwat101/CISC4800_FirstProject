@@ -35,9 +35,8 @@
 		.navbar ul li a {
 		  color: #fff;
 		  text-decoration: none;
-		  font-size: 18px;
+		  font-size: 20px;
 		}
-		
 
 		.container {
 			position: relative;
@@ -72,7 +71,5 @@
             		height: 100vh;
             		margin: auto;
         	}
-		
-		
 
 
