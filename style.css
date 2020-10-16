@@ -62,7 +62,7 @@
         .imgbox {
             display: grid;
             height: 100%;
-	filter: brightness(90%);
+	filter: brightness(100%);
         }
         .center-fit {
             width: 100%;
